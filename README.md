@@ -1,0 +1,2 @@
+# site
+FlyQuiet Hugo Site
