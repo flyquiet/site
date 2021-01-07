@@ -16,3 +16,7 @@ Here is some text:
 </body>
 </html>
 ```
+
+```js
+let stuff = 'things';
+```
